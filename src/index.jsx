@@ -12,7 +12,7 @@ const render = (Component) => {
         <Component/>
       </HashRouter>
     </AppContainer>,
-    document.getElementById('taproom-app-root')
+    document.getElementById('taproomreact2-app-root')
   );
 };
 

@@ -74,8 +74,8 @@ module.exports = {
     new webpack.NamedModulesPlugin(),
     new HtmlWebpackPlugin({
       template:'template.ejs',
-      appMountId: 'taproom-app-root',
-      title: 'TapRoom',
+      appMountId: 'taproomreact2-app-root',
+      title: 'taproomreact2',
       filename: resolve(__dirname, "build", "index.html"),
     }),
   ]
