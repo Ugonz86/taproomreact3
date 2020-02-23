@@ -3,7 +3,7 @@
 
 ### Description
 A React program where a brewery management can manage their keg inventory.
-* https://Ugonz86.github.io/taproomreact2
+* https://Ugonz86.github.io/taproomreact3
 
 ### Component Structure
 ![Diagram](Diagram.png)
@@ -12,7 +12,7 @@ A React program where a brewery management can manage their keg inventory.
 ```
 In command line, run the following:
 1.Clone this repository
-    $ git clone https://github.com/Ugonz86/taproomreact2.git
+    $ git clone https://github.com/Ugonz86/taproomreact3.git
 2. Install dependencies
     $ npm install
 3. Run program
